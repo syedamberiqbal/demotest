@@ -1,7 +1,7 @@
 import sys 
 import os
 #arg1 = sys.argv[1] #value1
-
+ 
 import PyPDF2
 pdf1File = open('SPIE.pdf', 'rb')
 print pdf1File
